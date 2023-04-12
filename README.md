@@ -1,7 +1,7 @@
 ##  How to get access of the source code
 -   Watch videos of this project imeplementation https://www.youtube.com/watch?v=FHtNnZ_9QYM&list=PLgnySyq8qZmo3d4uzPefYoGBN9Vpl266U
--   Pay ($70) at https://www.paypal.me/codeartisanlab (Global)
--   Pay (Rs. 5500) via UPI "shobhathakur0859@okaxis" (India)
+-   Pay ($80) at https://www.paypal.me/codeartisanlab (Global)
+-   Pay (Rs. 6400) via UPI "shobhathakur0859@okaxis" (India)
 -   Once payment successfull, I will give you access of the project
 -   Once this project is completed then i will upload to https://projectsplaza.com
 
