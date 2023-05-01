@@ -4,4 +4,4 @@
 -   Pay (Rs. 7200) via UPI "shobhathakur0859@okaxis" (India)
 -   Once payment successfull, please send your git username on my email codeartisanlab2607[at]gmail[dot]com
 
-Note: Price will change according to progress of the project
+<b>Note: </b>Price will change according to progress of the project
