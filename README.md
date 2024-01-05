@@ -4,7 +4,7 @@
 -   Pay (Rs. 10,599) via UPI <b>shobhathakur0859@okaxis</b> (India)
 -   Once payment successfull, please send your git username on my email codeartisanlab2607[at]gmail[dot]com
 <hr/>
-<p>Uploaded Videos=<code>88</code></p>
+<p>Uploaded Videos=<code>89</code></p>
 <p>Total Videos (Approx.)=<code>90-95</code></p>
 <hr/>
 <p><b>Note: </b>Price will change according to progress of the project</p>
